@@ -1,0 +1,13 @@
+.nav-link:hover{
+    background-color: black;
+    color: white !important;
+}
+.signup:hover
+{
+    background-color: #e4a04b !important;
+    color: #041c3d !important;
+}
+.signin:hover{
+    background-color: #e4a04b !important;
+    color: #041c3d !important;
+}
